@@ -1,0 +1,6 @@
+[submodule "SolarSnap_Backend"]
+	path = SolarSnap_Backend
+	url = https://github.com/ahammadshawki8/SolarSnap_Backend.git
+[submodule "SolarSnap-frontend"]
+	path = SolarSnap-frontend
+	url = https://github.com/Mumtio/SolarSnap-frontend.git
